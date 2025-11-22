@@ -37,3 +37,13 @@ Arch
 ```bash
 sudo pacman -S python-tk python-pip scrot xdotool wmctrl libx11 libxtst
 ```
+###How to run?
+- Linux
+  ```bash
+  sudo python3 <directory where the q.py located>
+  ```
+  - Windows
+    ```bash
+    python q.py
+    ```
+    or just double tap
