@@ -24,6 +24,7 @@ A macro app that allows players to **stop bots from walking** in Deathmatch by a
 ###Linux
 - Python 3 installed
 - the same python packages as windows
+  
 Debian/Ubuntu
    ```bash
   sudo apt install python3-tk python3-dev scrot xdotool wmctrl libx11-dev libxtst-dev
