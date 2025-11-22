@@ -1,6 +1,10 @@
 # cs2-botdb/slower
 WINDOWS/LINUX
+
+
 a macro app thats allows players to stop the bots from walking 
+
+
 How is works???
 1.some auto farm cheats has a spectator detection thats detects if someone spectates them if yes the bot (player) stops moving and shooting
 2.using pynput and other tools thats triggers left click,scroll
@@ -8,8 +12,7 @@ How is works???
 4.in future i have plans to add a db thats automaticly reports players (bots) 
 5.plz if u have old laptop run this app
 
-created with AI
-make the world better.
+
 SUPPORTED OS
 x11 kde/gnome should be supported (not tested)
 wayland kde/gnome (tested kde and gnome should be supported)
