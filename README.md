@@ -5,10 +5,11 @@ WINDOWS/LINUX
 a macro app thats allows players to stop the bots from walking 
 
 --REQUIREMENS--
->Windows req
+>>Windows req
  >>Python3 installed
   >>pyautogui/pynput/keyboard/opencv instaleld
->Linux req
+
+>>Linux req
  >>Debian
    ```
 sudo apt install python3-tk python3-dev scrot xdotool wmctrl libx11-dev libxtst-dev
