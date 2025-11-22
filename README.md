@@ -42,7 +42,8 @@ sudo pacman -S python-tk python-pip scrot xdotool wmctrl libx11 libxtst
   ```bash
   sudo python3 <directory where the q.py located>
   ```
-  - Windows
+  
+- Windows
     ```bash
     python q.py
     ```
