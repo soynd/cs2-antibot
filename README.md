@@ -20,14 +20,23 @@ How is works???
 
 
 SUPPORTED OS
+
 x11 kde/gnome should be supported (not tested)
+
 wayland kde/gnome (tested kde and gnome should be supported)
+
 hyprland/sway and others (not tested might have issues)
+
 windows 10/11 (not tested)
 
 
+
 --!KNOWN ISSUES!--
+
 Windows may have some issues cuz not tested yep (WINDOWS)
+
 After every round user should click spectate button manually will be fixed in next updates (WINDOWS/LINUX)
+
 wtype has a small but noticable delay it will not be fixed and if u want use pynput for more responsible clicks/scrolss (LINUX)
+
 --!KNOWN ISSUES!--
