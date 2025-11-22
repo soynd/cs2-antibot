@@ -21,7 +21,7 @@ A macro app that allows players to **stop bots from walking** in Deathmatch by a
 - Python packages:
   ```bash
   pip install pyautogui pynput keyboard opencv-python
-###Linux
+### Linux
 - Python 3 installed
 - the same python packages as windows
   
