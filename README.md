@@ -1,52 +1,23 @@
-# cs2-botdb/slower
-WINDOWS/LINUX
+# CS2-BotDB / Slower
 
+A macro app that allows players to **stop bots from walking** in Deathmatch by automating clicks, scrolls, and spectate detection.
 
-a macro app thats allows players to stop the bots from walking 
+---
 
---REQUIREMENS--
->>Windows req
- >>Python3 installed
-  >>pyautogui/pynput/keyboard/opencv instaleld
+## Supported OS
 
->>Linux req
- >>Debian
-   ```
-sudo apt install python3-tk python3-dev scrot xdotool wmctrl libx11-dev libxtst-dev
-```
+- **Windows:** 10 / 11 (not fully tested)  
+- **Linux:**  
+  - **X11** (KDE / GNOME) — should be supported  
+  - **Wayland** (KDE / GNOME) — tested, should work  
+  - **Hyprland / Sway / others** — not tested, may have issues  
 
-How is works???
+---
 
-1.some auto farm cheats has a spectator detection thats detects if someone spectates them if yes the bot (player) stops moving and shooting
+## Requirements
 
-2.using pynput and other tools thats triggers left click,scroll
-
-3.IM NOT SURE IF ITS DETECTED BY VAC BUT I RECOMEND TO USE ANOTHER ACCOUNT 
-
-4.in future i have plans to add a db thats automaticly reports players (bots) 
-
-5.plz if u have old laptop run this app
-
-
-
-SUPPORTED OS
-
-x11 kde/gnome should be supported (not tested)
-
-wayland kde/gnome (tested kde and gnome should be supported)
-
-hyprland/sway and others (not tested might have issues)
-
-windows 10/11 (not tested)
-
-
-
---!KNOWN ISSUES!--
-
-Windows may have some issues cuz not tested yep (WINDOWS)
-
-After every round user should click spectate button manually will be fixed in next updates (WINDOWS/LINUX)
-
-wtype has a small but noticable delay it will not be fixed and if u want use pynput for more responsible clicks/scrolss (LINUX)
-
---!KNOWN ISSUES!--
+### Windows
+- Python 3 installed  
+- Python packages:
+  ```bash
+  pip install pyautogui pynput keyboard opencv-python
