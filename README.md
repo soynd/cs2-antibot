@@ -1,5 +1,5 @@
 # cs2-botdb/slower
-WINDOWS(not tested)/LINUX
+WINDOWS/LINUX
 a macro app thats allows players to stop the bots from walking 
 How is works???
 1.some auto farm cheats has a spectator detection thats detects if someone spectates them if yes the bot (player) stops moving and shooting
