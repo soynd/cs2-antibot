@@ -16,8 +16,15 @@ A macro app that allows players to **stop bots from walking** in Deathmatch by a
 
 ## Requirements
 1.pynput for clicks and others
+
+
 2.pyautogui 
+
+
 3.xdotool (linux)
+
+
+
 ###How to run?
 - Linux
   ```bash
