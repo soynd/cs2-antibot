@@ -28,7 +28,7 @@ A macro app that allows players to **stop bots from walking** in Deathmatch by a
 ## How to run?
 - Linux
   ```bash
-  sudo python3 <directory where the q.py located>
+  python <directory where the main.py located>
   ```
   
 - Windows
